@@ -1,6 +1,6 @@
 # Relocating-Pile-of-Objects
 ---
-### setup
+### **Setup**
 
 ---
 ### Theory
