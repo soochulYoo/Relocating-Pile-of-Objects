@@ -1,19 +1,19 @@
 # Relocating-Pile-of-Objects
-+ Setup
++ ### Setup
   + MuJoCo 200
   + ADROIT hand
   + mujocopy
   + mjrl
 
-+ Theory
++ ### Theory
   + DAPG
  
-+ What I did
++ ### What I did
   + Spiral Transfer Learning
 
-+ Simulation
++ ### Simulation
   + Number of objects
   + Agent
 
-+ Results
++ ### Results
   + GIF
