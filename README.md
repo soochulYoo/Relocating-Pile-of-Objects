@@ -12,7 +12,7 @@
   + Spiral Transfer Learning
 
 + Simulation
-  + # of objects
+  + Number of objects
   + Agent
 
 + Results
