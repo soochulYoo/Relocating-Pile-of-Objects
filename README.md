@@ -10,6 +10,7 @@
  
 + ### What I did
   + Spiral Transfer Learning
+  + Modify MJRL
 
 + ### Simulation
   + Number of objects
