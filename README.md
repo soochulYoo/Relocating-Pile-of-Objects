@@ -1,7 +1,7 @@
 # Relocating-Pile-of-Objects
 ---
 ### Setup
-##### +MuJoCo
++ MuJoCo
 
 ---
 ### Theory
