@@ -6,7 +6,14 @@
   + mjrl
 
 + Theory
+  + DAPG
+ 
++ What I did
+  + Spiral Transfer Learning
 
 + Simulation
+  + # of objects
+  + Agent
 
 + Results
+  + GIF
